@@ -1,3 +1,7 @@
 node_modules/
 data/db.json
 *.log
+
+# SQLite database files
+data/*.db
+data/*.db-*
